@@ -1,0 +1,21 @@
+{
+  "name": "contract-relay",
+  "version": "1.0.0",
+  "description": "contract relay",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contract",
+    "solidity"
+  ],
+  "author": "Phyrex Tsai",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.4"
+  }
+}
